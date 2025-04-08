@@ -1,4 +1,5 @@
 Exploratory Data Analysis on the Municiple data's of Madrid on multiple hypothesis:
+
 H1: Air Pollution vs Bike Infrastructure in Madrid
 H2: Trend of AirBnB in Madrid
 H3: Weather and Crime
